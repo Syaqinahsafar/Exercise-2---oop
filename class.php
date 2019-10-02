@@ -2,7 +2,6 @@
 
 class try {
 
-
 }
 
 $a = new try();
